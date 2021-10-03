@@ -11,3 +11,15 @@ conda create -prefix ./envs python=3.7
 ```bash
 conda activate ./envs
 ```
+
+## Create Requirements.txt
+
+```bash
+touch requirements.txt
+```
+
+## Install Packages
+
+```bash
+pip install -r requirements.txt
+```
