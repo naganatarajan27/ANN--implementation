@@ -23,3 +23,6 @@ touch requirements.txt
 ```bash
 pip install -r requirements.txt
 ```
+
+## Reference ---------
+* [Conda env commands](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
