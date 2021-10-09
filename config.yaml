@@ -8,10 +8,12 @@ params:
   validation_datasize : 5000
 
 artifacts:
-  atrifacts_dir : artifacts
+  artifacts_dir : artifacts
   model_dir: model
   plots_dir: plots
   checkpoint_dir: checkpoint
+  model_name: model.h5
+  plot_name: plot.png
 
 logs:
   logs_dir : logs_dir
